@@ -1,0 +1,57 @@
+<RealityCapture version="1.2.0.17385" sceneRevision="29" sceneId="{FB173C46-3CA9-4162-B6B2-BAF77D09EBAC}" lock="iPA::FDxQUOd9ga9VXauTQ==">
+    <contributors>
+        <contributor name="TC00X@epic" computerName="DESKTOP-30AKNB1" id="iPA::FDxQUOd9ga9VXauTQ=="/>
+    </contributors>
+    <certificates>
+    </certificates>
+    <coordinates>
+        <coordinateSystem name="Local:1 - Euclidean" index="1" params="+proj=geocent +ellps=WGS84 +no_defs" paramsWKT=""/>
+        <projectCoordinates index="1"/>
+    </coordinates>
+    <source>
+        <input fileName="E:\Tan_Upload\can_17\IMG20220314121312.jpg">
+        </input>
+        <input fileName="E:\Tan_Upload\can_17\IMG20220314121315.jpg">
+        </input>
+        <input fileName="E:\Tan_Upload\can_17\IMG20220314121318.jpg">
+        </input>
+        <input fileName="E:\Tan_Upload\can_17\IMG20220314121320.jpg">
+        </input>
+        <input fileName="E:\Tan_Upload\can_17\IMG20220314121322.jpg">
+        </input>
+        <input fileName="E:\Tan_Upload\can_17\IMG20220314121324.jpg">
+        </input>
+        <input fileName="E:\Tan_Upload\can_17\IMG20220314121326.jpg">
+        </input>
+        <input fileName="E:\Tan_Upload\can_17\IMG20220314121328.jpg">
+        </input>
+        <input fileName="E:\Tan_Upload\can_17\IMG20220314121330.jpg">
+        </input>
+        <input fileName="E:\Tan_Upload\can_17\IMG20220314121332.jpg">
+        </input>
+    </source>
+    <reconstructions selectedComponentId="{C87D7E45-947C-4C04-8451-0F0B2DF0A13B}">
+        <component name="Component 0" id="{C87D7E45-947C-4C04-8451-0F0B2DF0A13B}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="Testa2.0\sfm30.dat" selectedModel="3" sfmVisible="0"> 
+            <colorNormalization name="colorNormalization" fileName="Testa2.0\colorNormalization8.dat" />
+            <metadata fileName="Testa2.0\metadata9.dat"/>
+            <model name="Model 1" fileName="Testa2.0\model32.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="8.5241067380490126e-03" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrapName="" cleanMark="2" selectedTxLayerGuid="{00000000-0000-0000-0A83-B850FF7F0000}" >
+            </model>
+            <model name="Model 2" fileName="Testa2.0\model33.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="8.5241067380490126e-03" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrapName="" cleanMark="3" selectedTxLayerGuid="{00000000-0000-0000-0A83-B850FF7F0000}" >
+            </model>
+            <model name="Model 3" fileName="Testa2.0\model34.dat" unwrappedArea="6.8718565438353779e-02" unwrappLargeTriRemThr="10.000000" minimalTexelSize="7.5664174801204354e-05" texturesUtilization="8.7735271453857422e-01" texelSize="3.8209895137697458e-05" chartsGutterSize="2" averageEdgeLength="3.9197718130984800e-04" coloringStyle="11" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrapName="DF3CB60E-1431-46CA-AF6E-98175F109E25c08c5308280e9c00403dd009900700d1" cleanMark="2" selectedTxLayerGuid="{E5339D9C-BBF1-4764-BEF2-FD13ABADAC68}" >
+                <textures>
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="44" id="{E5339D9C-BBF1-4764-BEF2-FD13ABADAC68}" />
+                </textures>
+            </model>
+            <model name="Model 4" fileName="Testa2.0\model35.dat" unwrappedArea="8.9866922375274938e-02" unwrappLargeTriRemThr="10.000000" minimalTexelSize="7.5664174801204354e-05" texturesUtilization="8.0942153930664063e-01" texelSize="4.3935422581853345e-05" chartsGutterSize="2" averageEdgeLength="1.5859736344861720e-03" coloringStyle="11" texturingStyle="9" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrapName="D87983D6-5AF4-4EC7-BD68-47B8CB38CF9880ccf5504808a700f0fd800a20c61c44" cleanMark="0" selectedTxLayerGuid="{787FD79F-3971-49ED-8BE8-E99B4472731F}" >
+                <textures>
+                    <textureLayer texturingStyle="9" inputLayer="1" computationTime="20" sourceModel="{DF3CB60E-1431-46CA-AF6E-98175F109E25}" sourceLayer="{E5339D9C-BBF1-4764-BEF2-FD13ABADAC68}" id="{787FD79F-3971-49ED-8BE8-E99B4472731F}" />
+                </textures>
+            </model>
+        </component>
+    </reconstructions>
+    <entities name="entities" fileName="Testa2.0\entities8.dat"/>
+    <animation fileName="Testa2.0\animation8.dat"/>
+    <controlpoints fileName="Testa2.0\controlpoints8.dat"/>
+    <appConfig fileName="Testa2.0\appConfig8.dat" />
+</RealityCapture>
